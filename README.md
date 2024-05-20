@@ -6,7 +6,7 @@
         <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" style="width: 20px; margin-right: 5px;">
         Lutfifakee
     </a>
-  <br>
+  -
     <a href="https://t.me/XProjetion" target="_blank" rel="noopener noreferrer" class="social-link" style="display: inline-flex; align-items: center; text-decoration: none; color: black; font-size: 14px; margin-right: 15px; padding: 5px 10px; border-radius: 5px; background-color: #f0f0f0; transition: background-color 0.3s ease;">
         <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Telegram.svg" alt="Telegram" style="width: 20px; margin-right: 5px;">
         X-Projetion
