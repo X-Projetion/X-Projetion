@@ -1,5 +1,3 @@
-<h1 align="center">X-Projetion</h1>
-
 <p align="center">
   <img src="https://github.com/X-Projetion/X-Projetion/blob/main/text.gif?raw=true" alt="X-Projetion" />
   <img src="https://raw.githubusercontent.com/X-Projetion/X-Projetion/main/text%20(1).gif" alt="X-Projetion" />
